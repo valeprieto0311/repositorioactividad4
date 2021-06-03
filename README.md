@@ -16,7 +16,7 @@ que quieran compartir su conocimiento con la comunidad de GitHub o para los estu
 *¿De que te gustaría ver más? 
 
 
-_Creo que todo GitHub es un mundo gigante en el cual encontramos demasiadas cosas que nos ayudan para 
+_Creo que todo GitHub es un mundo gigante en el cual encontramos demasiadas cosas que nos ayudan para
 nuestro aprendizaje y tambien para ayudar a otros, GitHubd lo tiene todo._
 
 

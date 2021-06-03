@@ -13,14 +13,14 @@ de desarrollar, está accecible a todas las personas y especialmente personas
 que quieran compartir su conocimiento con la comunidad de GitHub o para los estudiantes._**
 
 
-*¿De que te gustaría ver más? 
+*¿De que te gustaría ver más?*
 
 
 _Creo que todo GitHub es un mundo gigante en el cual encontramos demasiadas cosas que nos ayudan para
 nuestro aprendizaje y tambien para ayudar a otros, GitHubd lo tiene todo._
 
 
-*¿Qué sería interesante o útil para su viaje de aprendizaje?
+*¿Qué sería interesante o útil para su viaje de aprendizaje*
 
 
 _Como lo dije anteriormente, y aunque no llevo mucho vinculada a la 

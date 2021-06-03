@@ -29,9 +29,6 @@ al texto y cursiva, hasta poner emojis, es algo realmente increible, exploraré 
 y también sobre como puedo mejorar mi habilidad en GitHub usando Git Bash y Git Kraken entre otras cosas que me 
 ofrece esta plataforma_
 
--[x] ACTIVIDAD 1
--[x] ACTIVIDAD  2
--[ x ] ACTIVIDAD 3
 - [x] ACTIVIDAD  4
 
 

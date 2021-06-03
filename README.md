@@ -31,8 +31,10 @@ ofrece esta plataforma_
 
 -[x] ACTIVIDAD 1
 -[x] ACTIVIDAD  2
--[x] ACTIVIDAD 3
-- [x] ACTIVIDAD 4
+-[ x ] ACTIVIDAD 3
+- [x] ACTIVIDAD  4
+
+
 **GRACIAS POR SU ATENCIÓN**
 
 :smiley:
